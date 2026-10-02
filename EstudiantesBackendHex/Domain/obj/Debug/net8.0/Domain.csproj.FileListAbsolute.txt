@@ -1,0 +1,12 @@
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/bin/Debug/net8.0/Domain.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/bin/Debug/net8.0/Domain.pdb
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/Domain.pdb
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Domain/obj/Debug/net8.0/ref/Domain.dll

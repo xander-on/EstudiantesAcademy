@@ -1,0 +1,16 @@
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/bin/Debug/net8.0/Application.deps.json
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/bin/Debug/net8.0/Application.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/bin/Debug/net8.0/Application.pdb
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/bin/Debug/net8.0/Domain.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/bin/Debug/net8.0/Domain.pdb
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.sourcelink.json
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/refint/Application.dll
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/Application.pdb
+/home/alexander/dev/practicas/EstudiantesAcademy/EstudiantesBackendHex/Application/obj/Debug/net8.0/ref/Application.dll
